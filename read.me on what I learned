@@ -1,0 +1,5 @@
+I learned the basics of how to use GitHub from reading through this assignment. 
+Specifically I learned how to merge GitHub and R Studio as well as how to make a pull request. I am a bit confused on how to publish changes made in R Studio to GitHub. 
+
+Wilson et. al. suggests that you keep track of changes when working on computational research and so he would recomend using a storage platform where changes are marked such as GitHub or saving new copies of a program whenever a change is made.
+GitHub would be used as it is able to keep track of changes made automatically and does not require you to make a bunch of sub documents each time you make a change to your code.
